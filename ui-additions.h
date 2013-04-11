@@ -10,3 +10,4 @@
 #import <UIKit/UIKit.h>
 
 void UIViewUpdateFrameIfNeeded(UIView *view, CGRect frame);
+UIImage *UIImageFromUIView(UIView *view);
